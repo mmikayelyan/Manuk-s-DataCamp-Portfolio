@@ -16,3 +16,6 @@ The ranking, grouping, joining, ordering, and pattern matching skills you'll use
 6. Many males with the same name
 7. Top male names over the years
 8. The most years at number one
+
+## Technology
+This project used CSV to PostgreSQL_automated_code.ipynb to automate the import of CSV files into PostgreSQL. The analysis was conducted using PostgreSQL and Python and relevant data science libraries.
